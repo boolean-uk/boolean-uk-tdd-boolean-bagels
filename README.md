@@ -2,6 +2,24 @@
 
 _People love or hate them!_
 
+
+
+### Quickstart
+1. Fork this repository
+2. Clone your fork to your local machine (example command below, see note)
+3. Install project dependencies
+
+**NOTE: Replace `YOUR_GITHUB_USERNAME` with your github username if using the command below**
+```sh
+$ git clone git@github.com:YOUR_GITHUB_USERNAME/boolean-uk-tdd-todo-app.git && cd boolean-uk-tdd-todo-app
+$ npm ci # to install dependencies
+```
+
+### Instructions
+1. Follow a test-driven development process. Start with creating a domain model from the requirements, then write a test, and pass it by writing source code. Repeat until you've finished.
+
+You should be able to run this in your JS console (using your node REPL, or browser console). For any assumptions made, represent this in your domain model.
+
 # User Stories
 ## Part 1
 ```
